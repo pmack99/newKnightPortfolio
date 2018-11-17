@@ -921,7 +921,15 @@ border: 2px solid #fff;
 }
 
 .h-100 {
-    height: 100%!important;
+	
+	height: 100%;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+.img{
+	border-radius: 15px;
 }
 
 .main-section {
